@@ -4,4 +4,9 @@ Let's Start With Backend
 Then after we move to Frontend
 I Created folder and push to git first 
 Then i noted the steps in this file 
+
 1. Create a express server becuase the mongodb will directly not talk to nodejs we need httpserver
+My server is working The time is : 8:55pm
+We are going to use 
+
+2. Nano ID : A tiny, secure, URL-friendly, unique string ID generator for JavaScript
