@@ -1,0 +1,7 @@
+    *** URL SHORTNER ***
+First We can Create a : Backend and Frontend Folder
+Let's Start With Backend
+Then after we move to Frontend
+I Created folder and push to git first 
+Then i noted the steps in this file 
+1. Create a express server becuase the mongodb will directly not talk to nodejs we need httpserver
